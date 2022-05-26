@@ -17,11 +17,10 @@ position: fixed;
   width: 8px;
   margin-top: -2.5em;
   list-style: none;
-  
   display: flex;
   
 }
 
 #header  {
-    align: center;
+    text-align: center;
 }
